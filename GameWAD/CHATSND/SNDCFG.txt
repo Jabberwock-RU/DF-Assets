@@ -3,7 +3,7 @@ Count=108
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
-// All tags are case-insensetive
+// All tags are case-insensitive
 // FullWord check means all tags in entry should be separated words (by space or punctuation)
 // If the tag is just a punctuation character, FullWord flag would be ignored
 
