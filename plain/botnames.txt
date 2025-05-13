@@ -1,0 +1,65 @@
+[BOT] 007
+[BOT] <RiPPER>
+[BOT] Arjuna
+[BOT] Bad Guy
+[BOT] BigMek
+[BOT] Corwin of Amber
+[BOT] COTOHA
+[BOT] cpt. Mancubus
+[BOT] CrazyFrog
+[BOT] Dante
+[BOT] dr. Evil
+[BOT] Drool
+[BOT] Evil Genius
+[BOT] Expert Droid
+[BOT] Fragger
+[BOT] Impossible
+[BOT] l00per
+[BOT] Munchkin
+[BOT] Nuclear Droid
+[BOT] Old School
+[BOT] Phantomas
+[BOT] Proton
+[BOT] Rambo
+[BOT] SuperFrog
+[BOT] Terminator
+[BOT] Terran
+[BOT] Tesla
+[BOT] Wookie
+[BOT] Xtra frag
+[BOT] Yarra!
+[BOT] Zicky-Zacky
+[BOT] ZX-fan
+[BOT] Fisher
+[BOT] Jack the Ripper
+[BOT] Sweeney Todd
+[BOT] Zodiac
+[BOT] Unabomber
+[BOT] Alexander
+[BOT] Attila
+[BOT] Caligula
+[BOT] Genghis Khan
+[BOT] Iron Felix
+[BOT] Marat
+[BOT] Napoleon
+[BOT] Nero
+[BOT] Tamerlan
+[BOT] 1801BM1
+[BOT] 6x86MX
+[BOT] Am2901
+[BOT] Athlon 64 X2
+[BOT] DEC Alpha
+[BOT] Elbrus 2000
+[BOT] i80386DX
+[BOT] i80486SX
+[BOT] i8086
+[BOT] m68000
+[BOT] MOSTEK 6502
+[BOT] MCST-R500
+[BOT] Nx586FP
+[BOT] PA6T
+[BOT] PowerPC G3
+[BOT] Sparc64 V
+[BOT] U5S
+[BOT] Z80
+[BOT] Snapdragon 805
