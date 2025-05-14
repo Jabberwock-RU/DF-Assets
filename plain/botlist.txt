@@ -15,19 +15,19 @@ name=Prikolist
 model=Doomer
 color=255,128,0
 team=red
-;вероятность стрельбы под углом
+;chance to shoot diagonally
 diag_fire=255
-;вероятность ответного огня, если по боту стрельнули из темноты
+;chance to shoot back when bot had been shot from far away
 invis_fire=255
-;точность стрельбы под углом
+;accuracy of diagonal shooting
 diag_precision=255
-;точность стрельбы в полете
+;accuracy of shooting when flying
 fly_precision=255
-;точность, с которой отпрыгивает от ракет
+;finesse of evading rockets
 cover=255
-;прыгучесть если близко к тебе подбежал
+;how often bot jumps when another player is close to bot
 close_jump=255
-;приоритеты оружия на дальней и ближней дистанции
+;weapon priority when target is far and near
 w_prior1=9,4,3,5,7,6,8,2,1,0
 w_prior2=9,8,6,4,7,3,5,2,1,0
 
@@ -116,3 +116,4 @@ cover=255
 close_jump=255
 w_prior1=9,4,3,5,7,6,8,2,1,0
 w_prior2=9,8,6,4,7,3,5,2,1,0
+
